@@ -1,0 +1,28 @@
+/* General page background */
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+/* Heading styling */
+h1 {
+    color: blue;
+    background-color: dodgerblue;
+    padding: 10px;
+}
+.description {
+    color: purple;
+}
+
+
+.highlight {
+    background-color: yellow;
+    color: orange;
+    padding: 5px;
+}
+
+.plain {
+    background-color: lightgreen;
+    color: black;
+    padding: 5px;
+}
